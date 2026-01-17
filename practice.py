@@ -1,0 +1,1 @@
+print ("anastasia pokormiak, cs-2, group 2 (assigned)")
